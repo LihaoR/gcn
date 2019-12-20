@@ -1,3 +1,3 @@
-# gcn
+# gcn and graphsage
 
-## graphsage without sample neighbor
+graphsage without sample neighbor
